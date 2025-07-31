@@ -1,10 +1,12 @@
-**autoengage: An Advanced Voice-to-Voice Chatbot**
+**AutoEngage: An Advanced Voice-to-Voice Chatbot**
 
-This project allows you to interact with a powerful voice-driven chatbot named **autoengage**.
+https://www.loom.com/share/f54f4016a4df4bb3935d14a2054a6c54?sid=9dae9b21-e51a-457f-932e-7bf1a646bee2
+
+This project allows you to interact with a powerful voice-driven chatbot named **AutoEngage**. 
 
 ## Project Setup
 
-autoengage relies on several external libraries to function. To simplify the process, a handy `setup.sh` script automates the installation. Follow these steps to get autoengage up and running:
+AutoEngage relies on several external libraries to function. To simplify the process, a handy `setup.sh` script automates the installation. Follow these steps to get AutoEngage up and running:
 
 ## Prerequisites
 
